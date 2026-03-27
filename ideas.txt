@@ -1,0 +1,52 @@
+questions = [
+    {
+        "text": "How much of a temperature change does it take for corals to bleach?",
+        "options": ["1–2 °C", "10–15 °C", "20–25 °C", "30 °C or more"],
+        "answer": "1–2 °C"
+    },
+    {
+        "text": "How much of the excess heat from global warming has the ocean absorbed?",
+        "options": ["Over 90%", "About 10%", "Around 50%", "Less than 5%"],
+        "answer": "Over 90%"
+    },
+    {
+        "text": "How much has ocean acidity increased since the Industrial Revolution?",
+        "options": ["About 30%", "5%", "10%", "70%"],
+        "answer": "About 30%"
+    },
+    {
+        "text": "How much of the Great Barrier Reef has experienced bleaching in recent decades?",
+        "options": ["Over 90%", "10%", "25%", "50%"],
+        "answer": "Over 90%"
+    },
+    {
+        "text": "How much of Earth’s oxygen is produced by the ocean?",
+        "options": ["Around 50%", "10%", "25%", "90%"],
+        "answer": "Around 50%"
+    },
+    {
+        "text": "How much of the excess carbon dioxide from human activity is absorbed by the ocean?",
+        "options": ["Around 30%", "5%", "60%", "90%"],
+        "answer": "Around 30%"
+    },
+    {
+        "text": "How much sea level rise is expected by 2100 if warming continues?",
+        "options": ["Up to 1 meter", "10 centimeters", "5 meters", "No change"],
+        "answer": "Up to 1 meter"
+    },
+    {
+        "text": "How much faster are oceans warming today compared to the past 50 years?",
+        "options": ["About twice as fast", "Slower than before", "The same rate", "Ten times faster"],
+        "answer": "About twice as fast"
+    },
+    {
+        "text": "How many marine species depend on coral reefs, which are threatened by warming?",
+        "options": ["About 25% of all marine species", "5%", "50%", "75%"],
+        "answer": "About 25% of all marine species"
+    },
+    {
+        "text": "How much ice has the Arctic lost in summer compared to the 1980s?",
+        "options": ["About 75%", "10%", "25%", "50%"],
+        "answer": "About 75%"
+    }
+]
