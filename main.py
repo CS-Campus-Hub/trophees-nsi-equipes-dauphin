@@ -110,7 +110,7 @@ def draw_text(surface, text, font, color, x, y, max_width):
         else:
             current_line = test_line
     lines.append(current_line)
-    for i, line in enumerate(lines[:2]):  # max 2 lignes
+    for i, line in enumerate(lines):
         line_surface = font.render(line, True, color)
         surface.blit(line_surface, (x, y + i * font.get_height()))
 
