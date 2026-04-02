@@ -38,13 +38,13 @@ questions = [
     },
     {
         "text": "À quelle vitesse les océans se réchauffent-ils aujourd’hui par rapport aux 50 dernières années ?",
-        "options": ["Environ deux fois plus vite", "Au même rythme", "Dix fois plus vite"],
-        "answer": "Environ deux fois plus vite"
+        "options": ["2x plus vite", "Même rythme", "10x plus vite"],
+        "answer": "2x plus vite"
     },
     {
         "text": "Combien d’espèces marines dépendent des récifs coralliens, menacés par le réchauffement ?",
-        "options": ["Environ 25% de toutes les espèces marines", "50%", "75%"],
-        "answer": "Environ 25% de toutes les espèces marines"
+        "options": ["Environ 25%", "50%", "75%"],
+        "answer": "Environ 25%"
     },
     {
         "text": "Quelle quantité de glace l’Arctique a-t-il perdu en été par rapport aux années 1980 ?",
