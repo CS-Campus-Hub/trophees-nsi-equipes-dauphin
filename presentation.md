@@ -37,21 +37,29 @@ Au final, notre objectif était simplement de transmettre ce message de manière
 
 ## Validation de l’opérationnalité et du fonctionnement 
 
-*Vous détaillez l'état d'avancement de votre projet et les actions menées pour garantir le bon fonctionnement de votre solution => compétences évaluées : capacité à innover, à identifier les difficultés et à proposer des améliorations, capacité à justifier des choix technologiques et à expliquer les concepts.*
+Au moment du dépôt, notre projet est fonctionnel dans son ensemble. Le joueur peut contrôler le dauphin, se déplacer dans l’environnement marin et interagir avec les différentes étapes du jeu. Le quiz a également été intégré, ce qui permet d’ajouter une dimension éducative au projet.
 
-Précisez les informations suivantes :
-- état d’avancement du projet au moment du dépôt,
-- approches mises en œuvre pour vérifier l’absence de bugs,
-- difficultés rencontrées et les solutions apportées.
+Le développement s’est fait de manière progressive. Dans un premier temps, nous avons expérimenté avec Pygame afin de comprendre son fonctionnement. Nous avons commencé par créer un décor très simple, avec un fond bleu représentant l’océan, et nous avons programmé les déplacements du dauphin sans utiliser d’images détaillées. Cette étape nous a permis de vérifier que les commandes du clavier et les mouvements fonctionnaient correctement.
+
+Dans un second temps, nous avons ajouté les sprites et les éléments visuels du jeu. Cela a permis de rendre le projet plus attractif et plus proche de notre idée de départ. Enfin, nous avons intégré le quiz, qui constitue la partie éducative principale de notre projet. Cette dernière étape a nécessité de relier l’aspect ludique du jeu avec des contenus informatifs sur l’océan et l’environnement.
+
+Pour vérifier l’absence de bugs, nous avons procédé à de nombreux tests réguliers tout au long du développement. Après chaque nouvelle fonctionnalité ajoutée, nous avons lancé le jeu afin de vérifier que tout fonctionnait encore correctement. Nous avons notamment testé :
+
+le déplacement du dauphin,
+l’affichage des images,
+le passage entre les différentes étapes du jeu,
+le fonctionnement des questions et des réponses du quiz.
+
+Nous avons rencontré plusieurs difficultés au cours du projet. L’une des premières a été la prise en main de Pygame, car il fallait comprendre comment gérer l’affichage, les déplacements et les interactions. Nous avons également eu des difficultés pour intégrer correctement les images et organiser le code de façon claire. Enfin, la mise en place du quiz a demandé de réfléchir à la manière de stocker les questions et de vérifier les réponses.
+
+Pour résoudre ces difficultés, nous avons avancé par étapes, en testant chaque élément séparément avant de l’intégrer au projet complet. Cette méthode nous a permis d’identifier plus facilement les erreurs et de corriger les problèmes progressivement. Nous avons aussi simplifié certaines idées techniques lorsque cela était nécessaire, afin de garantir un résultat fonctionnel et cohérent.
 
 ## Ouverture 
 
-*Vous réalisez un bilan personnel sur ce projet et détaillez l'expérience vécue par chaque membre de l'équipe => compétences évaluées : analyse critique, prise de recul, implication dans le projet.*
+Ce projet nous a permis de réaliser un jeu éducatif à la fois simple, interactif et porteur d’un message de sensibilisation à la protection des océans.
 
-Précisez les informations suivantes :
-- idées d'amélioration du projet,
-- analyse critique, 
-- compétences personnelles développées.
-- démarche d'inclusion.
+Eva : J’ai pris en charge l’intégralité de la programmation. J’ai commencé par expérimenter avec Pygame, en testant les déplacements sur un fond bleu, puis j’ai intégré les sprites et enfin le quiz. Ce travail m’a permis de développer mes compétences en Python, en logique de jeu, en tests et en débogage, ainsi qu’à structurer un projet complet.
+
+Alicia : J’ai créé tous les éléments graphiques du jeu, comme les sprites et le décor. Mon rôle a été essentiel pour rendre le jeu attractif et immersif. Cette expérience m’a permis de développer mes compétences en graphisme et en design, en imaginant des visuels adaptés au thème de l’océan et au public cible.
 
 Ceci est un MODELE_PRESENTATION.
