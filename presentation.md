@@ -31,7 +31,7 @@ Notre équipe est composée de deux personnes : Alicia Peixoto et Eva Deeb. Ma c
 
 Vous présentez les principales étapes de votre projet, de la naissance de l'idée jusqu’au développement de votre solution.
 
-Nous souhaitons sensibiliser davantage de personnes aux conséquences visibles du réchauffement climatique et de la pollution humaine. Ayant grandi en Angola, un pays particulièrement touché par la pollution, nous sommes constamment confrontées à ses effets au quotidien. C'est ce qui nous a inspirées à faire passer ce message, et à encourager chacun à réfléchir à la façon dont nous traitons notre planète — notamment ses océans, qui en constituent la plus grande partie.
+Nous souhaitons sensibiliser davantage de personnes aux conséquences visibles du réchauffement climatique et de la pollution humaine. Ayant grandi en Angola, un pays particulièrement touché par la pollution, nous sommes constamment confrontées à ses effets au quotidien. C'est ce qui nous a inspirées à faire passer ce message, et à encourager chacun à réfléchir à la façon dont nous traitons notre planète, notamment ses océans, qui en constituent la plus grande partie.
 Nous avons également rencontré des difficultés de gestion du temps, ce qui fait que le résultat final ne correspond pas entièrement à ce que nous avions imaginé. Il reflète néanmoins l'essentiel de ce que nous voulions démontrer.
 Au final, notre objectif était simplement de transmettre ce message de manière ludique et interactive, accessible à tous les âges.
 
